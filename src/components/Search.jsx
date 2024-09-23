@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import axios from 'axios';
-import './SearchUser.css';
+import './Search.css';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import LocationCityIcon from '@mui/icons-material/LocationCity';
 import TwitterIcon from '@mui/icons-material/Twitter';
